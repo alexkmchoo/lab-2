@@ -19,7 +19,9 @@ As energy per capita decreases,fossil share energy decreases as well
 
 As fossil share energy decerases, renewables share energy increases
 
-_This means that as population increases, both energy per capita and fossil share energy decrease while renewable share energy increases_
+Just from looking at the relationship individually, we can draw a conclusion across different values as well
+
+This means that as population increases, both energy per capita and fossil share energy decrease while renewable share energy increases.
 
 **Step 2**
 
